@@ -22,5 +22,5 @@ Plugin installation:
 *  [Vim packages](http://vimhelp.appspot.com/repeat.txt.html#packages) (since Vim 7.4.1528)
   * `git clone https://github.com/gazelle0130/ghkw-vim.git ~/.vim/pack/plugins/start/ghkw-vim`
 *  [dein](https://github.com/Shougo/dein.vim)
-  * `call dein#add('gazelle0130/ghkw-nvim')`
+  * `call dein#add('gazelle0130/ghkw-vim')`
 
