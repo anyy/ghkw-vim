@@ -12,15 +12,15 @@ ghkw-vim requires **ghkw** to be available in your `$PATH`.
 
 Plugin installation:
 *  [Pathogen](https://github.com/tpope/vim-pathogen)
-  * `git clone https://github.com/gazelle0130/ghkw-vim.git ~/.vim/bundle/ghkw-vim`
+  * `git clone https://github.com/anyy/ghkw-vim.git ~/.vim/bundle/ghkw-vim`
 *  [vim-plug](https://github.com/junegunn/vim-plug)
-  * `Plug 'gazelle0130/ghkw-vim'`
+  * `Plug 'anyy/ghkw-vim'`
 *  [NeoBundle](https://github.com/Shougo/neobundle.vim)
-  * `NeoBundle 'gazelle0130/ghkw-vim'`
+  * `NeoBundle 'anyy/ghkw-vim'`
 *  [Vundle](https://github.com/gmarik/vundle)
-  * `Plugin 'gazelle0130/ghkw-vim'`
+  * `Plugin 'anyy/ghkw-vim'`
 *  [Vim packages](http://vimhelp.appspot.com/repeat.txt.html#packages) (since Vim 7.4.1528)
-  * `git clone https://github.com/gazelle0130/ghkw-vim.git ~/.vim/pack/plugins/start/ghkw-vim`
+  * `git clone https://github.com/anyy/ghkw-vim.git ~/.vim/pack/plugins/start/ghkw-vim`
 *  [dein](https://github.com/Shougo/dein.vim)
-  * `call dein#add('gazelle0130/ghkw-vim')`
+  * `call dein#add('anyy/ghkw-vim')`
 
